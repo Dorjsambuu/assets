@@ -1,0 +1,9 @@
+ "name": "Khaan Coin",
+    "website": "https://khaancoin.vip",
+    "description": "Khaancoin use for mongolian e-money.",
+    "explorer": "https://bscscan.com/token/0xc45d6bdf1537b4087fd78bf506453a61f9154020",
+    "type": "BEP20",
+    "symbol": "KHN",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xc45d6bdf1537b4087fd78bf506453a61f9154020"
